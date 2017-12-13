@@ -1,0 +1,71 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\TweetLength.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\common\package.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Signal.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Polynomial.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\TweetLength.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\common\package.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Signal.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Polynomial.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\TweetLength.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\common\package.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Signal.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Polynomial.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3732d092, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\classes;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.7\scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\target\scala-2.11\classes;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.7\scala-reflect-2.11.7.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-sbt\test-interface\1.0\test-interface-1.0.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.11\1.0.4\scala-parser-combinators_2.11-1.0.4.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scalacheck\scalacheck_2.11\1.12.1\scalacheck_2.11-1.12.1.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-xml_2.11\1.0.4\scala-xml_2.11-1.0.4.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 3.659249702 s[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\TweetLength.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\TweetLength.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\TweetLength.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\TweetLength.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\TweetLength.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, tweetRemainingCharsCount, wait, $asInstanceOf, equals, asInstanceOf, colorForRemainingCharsCount, synchronized, $isInstanceOf, MaxTweetLength, notifyAll, isInstanceOf, ==, clone, toString, !=, tweetLength, getClass, ne, TweetLength, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Signal.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Signal.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Signal.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Signal.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Signal.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	observers, notify, wait, $asInstanceOf, Var, Signal, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, NoSignal, <init>, apply, ==, clone, toString, !=, computeValue, getClass, update, ne, myExpr, myValue, eq, ##, finalize, caller, hashCode, observed.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Polynomial.scala: Set(Signal, <init>, apply, ==)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala: Set(Signal, asInstanceOf, isInstanceOf, <init>, apply, ==, toString, ne, eq)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\TweetLength.scala: Set(Signal, <init>, apply)[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	computeValues, notify, name, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, Expr, Divide, synchronized, a, $isInstanceOf, Literal, canEqual, productPrefix, notifyAll, Plus, isInstanceOf, eval, Minus, v, <init>, b, ==, clone, getReferenceExpr, copy, toString, !=, Times, getClass, copy$default$1, ne, eq, Calculator, productIterator, ##, finalize, Ref, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Polynomial.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Polynomial.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Polynomial.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Polynomial.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Polynomial.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, computeDelta, notifyAll, computeSolutions, isInstanceOf, ==, clone, Polynomial, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\common\package.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\common\package.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\common\package.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\common\package.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\common\package.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, package, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, resourceAsStreamFromSrc, notifyAll, isInstanceOf, ???, ==, clone, subFile, toString, !=, getClass, ne, eq, ##, finalize, hashCode, ***.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

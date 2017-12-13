@@ -1,0 +1,49 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\test\Heap.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\test\Heap.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\test\Heap.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\target\scala-2.11\test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3559c2c4, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\classes;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.7\scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\target\scala-2.11\test-classes;D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\target\scala-2.11\classes;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.7\scala-reflect-2.11.7.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-sbt\test-interface\1.0\test-interface-1.0.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\hamcrest\hamcrest-core\1.1\hamcrest-core-1.1.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.11\1.0.4\scala-parser-combinators_2.11-1.0.4.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scalacheck\scalacheck_2.11\1.12.1\scalacheck_2.11-1.12.1.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-xml_2.11\1.0.4\scala-xml_2.11-1.0.4.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\junit\junit\4.10\junit-4.10.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.566189923 s[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	arbHeap, unconstrainedEquality, convertToEqualizer, generatorDrivenConfig.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\test\Heap.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\test\Heap.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\test\Heap.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala by D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\test\Heap.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\test\Heap.scala, D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala)[0m
+[0m[[0mdebug[0m] [0mThe D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\test\Heap.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, curried, x, wait, copy$default$2, $asInstanceOf, empty, Bogus1BinomialHeap, insert, root, productArity, equals, Rank, Bogus4BinomialHeap, asInstanceOf, Bogus2BinomialHeap, rank, synchronized, deleteMin, A, Bogus5BinomialHeap, $isInstanceOf, Node, tupled, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, ins, <init>, apply, ==, clone, link, $init$, copy$default$3, copy, meld, toString, H, !=, c, BinomialHeap, getClass, copy$default$1, r, isEmpty, Bogus3BinomialHeap, ne, findMin, eq, productIterator, ord, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala: Set(Bogus1BinomialHeap, Bogus4BinomialHeap, Bogus2BinomialHeap, Bogus5BinomialHeap, <init>, BinomialHeap, Bogus3BinomialHeap)[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

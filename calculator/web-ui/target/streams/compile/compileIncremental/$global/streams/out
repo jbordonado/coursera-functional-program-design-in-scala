@@ -1,0 +1,32 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\src\main\scala\calculator\Calculator.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\web-ui\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 196330eb, interfacing (CompilerInterface) with Scala compiler version 2.11.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-Xplugin:C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-compiler_2.11.6\0.6.11\scalajs-compiler_2.11.6-0.6.11.jar[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\classes;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.6\scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\Dev\Functional_Programming_in_Scala\Functional_Program_Design_in_Scala\calculator\web-ui\target\scala-2.11\classes;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-library_2.11\0.6.11\scalajs-library_2.11-0.6.11.jar;C:\Users\Jordan BORDONADO\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-dom_sjs0.6_2.11\0.8.0\scalajs-dom_sjs0.6_2.11-0.8.0.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.115099438 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
